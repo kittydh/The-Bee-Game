@@ -1,0 +1,16 @@
+
+THE BEE GAME: 
+-there is a bee which can collect pollen and the most recent pollen in the pollen collection can be pollinated along with the flower which helped with the pollination. There is a randomly generated terrain in the background which looks like mountains and there is also a spider which the bee should avoid. If the spider touches the bee, the game is over. There is a timer running at the top of the screen and the aim of the game is to try to make the bee live as long as possible. Once a spider touches the bee and the game is over, the timer stops. The game prompts you to enter your name at the beginning so that when your bee dies and you go back to the home screen it displays how long you survived in the game. The bee\'92s velocity is dependent on the distance between the cursor and the bee. The further the cursor, the faster the bee approaches the cursor. 
+
+ 
+Running the Project: 
+
+- the 'Final TP' file should be run VS code or something similar. 
+
+Libraries and Modules: 
+ there is no libraries/modules that need to be installed. 112 graphics and math have already been imported into my codebase and are in the same folder as the code. 
+
+Commands: 
+- pressing p pauses the game and allows the player to move the bee to any point in the screen 
+-pressing h makes you return to the screen 
+-pressing r restarts the game
